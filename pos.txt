@@ -1,25 +1,45 @@
-positive/1629376781.5072906.jpg 1 899 365 189 431
-positive/1629376815.7617178.jpg 1 840 273 237 446
-positive/1629376820.869384.jpg 1 879 256 235 524
-positive/1629376826.6666467.jpg 1 844 319 270 461
-positive/1629376832.261329.jpg 1 844 319 263 470
-positive/1629376836.8471246.jpg 1 849 361 195 383
-positive/1629376859.291063.jpg 1 853 385 206 392
-positive/1629377045.7948816.jpg 2 1311 297 18 55 1031 292 21 38
-positive/1629377121.7053308.jpg 1 968 426 126 261
-positive/1629377157.57317.jpg 1 965 418 103 255
-positive/1629377193.9944863.jpg 1 986 373 150 404
-positive/1629377297.976598.jpg 1 898 273 200 465
-positive/1629377365.2064471.jpg 1 887 269 198 450
-positive/Apex_Legends_Screenshot_2021.08.19-07.50.56.21.jpg.jpg 1 863 376 193 281
-positive/Apex_Legends_Screenshot_2021.08.19-08.24.17.69.jpg 1 950 443 93 204
-positive/Apex_Legends_Screenshot_2021.08.19-08.36.57.100.jpg 1 889 332 161 408
-positive/Apex_Legends_Screenshot_2021.08.19-08.37.04.40.jpg 1 883 359 154 378
-positive/Apex_Legends_Screenshot_2021.08.19-08.37.09.27.jpg 1 919 284 139 428
-positive/Apex_Legends_Screenshot_2021.08.19-08.37.12.41.jpg 1 923 287 147 402
-positive/Apex_Legends_Screenshot_2021.08.19-08.37.15.54.jpg 1 845 251 219 523
-positive/Apex_Legends_Screenshot_2021.08.19-08.37.19.49.jpg 1 838 314 227 382
-positive/Apex_Legends_Screenshot_2021.08.19-08.37.22.58.jpg 1 904 359 187 458
-positive/Apex_Legends_Screenshot_2021.08.19-08.37.28.77.jpg 1 867 459 152 202
-positive/Apex_Legends_Screenshot_2021.08.19-08.37.33.69.jpg 1 837 69 281 545
-positive/Apex_Legends_Screenshot_2021.08.19-08.37.38.70.jpg 1 799 72 401 665
+positive/1629376781.5072906.jpg 1 921 361 166 433
+positive/1629376815.7617178.jpg 1 893 269 191 432
+positive/1629376820.869384.jpg 1 854 230 241 550
+positive/1629376826.6666467.jpg 1 845 325 215 420
+positive/1629376832.261329.jpg 1 878 297 197 462
+positive/1629376836.8471246.jpg 1 818 349 192 394
+positive/1629376859.291063.jpg 1 869 418 182 336
+positive/1629377045.7948816.jpg 2 1030 295 23 32 1312 315 15 32
+positive/1629377121.7053308.jpg 1 974 416 117 257
+positive/1629377157.57317.jpg 1 980 431 89 260
+positive/1629377193.9944863.jpg 1 980 361 151 434
+positive/1629377297.976598.jpg 1 928 313 147 430
+positive/1629377365.2064471.jpg 1 891 230 174 512
+positive/Apex_Legends_Screenshot_2021.08.19-11.28.58.74.jpg 1 860 225 179 303
+positive/Apex_Legends_Screenshot_2021.08.19-11.30.22.65.jpg 1 915 448 35 56
+positive/Apex_Legends_Screenshot_2021.08.19-11.30.28.29.jpg 1 844 419 10 54
+positive/Apex_Legends_Screenshot_2021.08.19-11.30.34.51.jpg 3 923 448 32 64 1275 439 22 28 1494 431 10 19
+positive/Apex_Legends_Screenshot_2021.08.19-11.30.34.77.jpg 3 932 452 31 63 1277 438 19 35 1491 433 18 22
+positive/Apex_Legends_Screenshot_2021.08.19-11.30.35.07.jpg 3 710 450 59 71 1045 433 21 30 1190 423 10 19
+positive/Apex_Legends_Screenshot_2021.08.19-11.30.37.67.jpg 2 953 464 47 70 1428 462 24 42
+positive/Apex_Legends_Screenshot_2021.08.19-11.30.37.88.jpg 2 945 461 38 58 1429 463 18 37
+positive/Apex_Legends_Screenshot_2021.08.19-11.30.41.02.jpg 1 995 416 20 22
+positive/Apex_Legends_Screenshot_2021.08.19-11.30.42.65.jpg 1 1005 405 30 68
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.09.06.jpg 2 1117 460 17 21 986 458 12 22
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.09.31.jpg 2 984 461 14 19 1120 462 10 24
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.09.57.jpg 2 984 463 19 22 1112 462 12 20
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.09.84.jpg 2 980 461 19 21 1104 463 20 19
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.16.08.jpg 3 932 455 11 14 1156 412 15 20 1034 438 10 15
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.19.95.jpg 1 938 473 15 19
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.22.80.jpg 3 1103 436 13 18 1283 375 16 15 1190 409 14 17
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.23.11.jpg 3 1092 247 14 24 1196 211 9 24 1310 174 10 21
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.26.86.jpg 3 1016 478 13 26 1109 449 16 29 1195 428 13 24
+positive/Apex_Legends_Screenshot_2021.08.19-11.31.27.09.jpg 3 1013 481 23 25 1112 454 14 17 1193 425 11 21
+positive/Apex_Legends_Screenshot_2021.08.19-07.50.56.21.jpg.jpg 1 925 419 83 221
+positive/Apex_Legends_Screenshot_2021.08.19-08.24.17.69.jpg 1 914 420 131 224
+positive/Apex_Legends_Screenshot_2021.08.19-08.36.57.100.jpg 1 878 328 165 399
+positive/Apex_Legends_Screenshot_2021.08.19-08.37.04.40.jpg 1 869 343 174 398
+positive/Apex_Legends_Screenshot_2021.08.19-08.37.09.27.jpg 1 888 264 171 456
+positive/Apex_Legends_Screenshot_2021.08.19-08.37.12.41.jpg 1 897 264 175 428
+positive/Apex_Legends_Screenshot_2021.08.19-08.37.15.54.jpg 1 858 206 223 581
+positive/Apex_Legends_Screenshot_2021.08.19-08.37.19.49.jpg 1 839 299 228 398
+positive/Apex_Legends_Screenshot_2021.08.19-08.37.22.58.jpg 1 881 342 200 438
+positive/Apex_Legends_Screenshot_2021.08.19-08.37.28.77.jpg 1 886 427 145 253
+positive/Apex_Legends_Screenshot_2021.08.19-08.37.33.69.jpg 1 849 55 230 575
+positive/Apex_Legends_Screenshot_2021.08.19-08.37.38.70.jpg 1 801 62 328 612
