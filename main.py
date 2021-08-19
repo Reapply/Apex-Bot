@@ -39,4 +39,4 @@ while(True):
     elif key == ord('d'):
         cv.imwrite('negative/{}.jpg'.format(loop_time), screenshot)
 
-print('Done.')
+print('Donee.')
